@@ -10,7 +10,7 @@
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-JAA&repo=JAA-USERBOT&theme=dark)
 
 
 ## Requirements 
